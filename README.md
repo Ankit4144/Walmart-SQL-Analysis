@@ -73,14 +73,14 @@ This SQL project analyzes Walmart’s transaction data across multiple cities to
 - Below are visual samples of some of the SQL analysis tasks performed in this project.
 
 ### 📈 Top Branch by Sales Growth Rate
-![Top Branch by Sales](Screenshots/Top Branch by Sales.png)
+![Top Branch by Sales](Top%20Branch%20by%20Sales.png)
 
 ### 💰 Most Profitable Product Line (Per Branch)
-![Most Profitable Product Line](Screenshots/Most%20Profitable%20P_line.png)
+![Most Profitable Product Line](Most%20Profitable%20P_line.png)
 
 ### 💳 Most Popular Payment Methods by City
-![Payment Methods](Screenshots/Payment_methods.png)
+![Payment Methods](Payment_methods.png)
 
 ### 🔁 Repeat Customer Identification
-![Repeat Customers](Screenshots/Repeat_Cust.png)
+![Repeat Customers](Repeat_Cust.png)
 
